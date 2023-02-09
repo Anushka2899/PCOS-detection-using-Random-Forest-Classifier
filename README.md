@@ -1,1 +1,3 @@
 # PCOS-detection-using-Random-Forest-Classifier
+#Introduction
+#PCOS or Polycystic Ovarian Syndrome is a gender specific disorder that has become very prevalent among the females of reproductive age. Till date, no uniform set of symptoms have been identified in the patients suffereing from PCOS and shows heterogeneity among patients. The exact cause of PCOS is stil not clear but it is believed to be due to different interactions between genetic and environmental factors. The main aim of this project is to help with the classification of PCOS using the most prominent symptoms that have been documented in 541 patients across 10 different hospitals in Kerala, India. The dataset used contains 41 physical and clinical parameters to decide whether a patient has PCOS.
